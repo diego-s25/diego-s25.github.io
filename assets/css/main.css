@@ -1823,6 +1823,10 @@ input, select, textarea {
 		border-color: white !important;
 	}
 
+	#intro .button {
+		background-color: white;
+	}
+
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
@@ -2984,8 +2988,8 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.split > * {
-				margin: 3em 0 0 0;
-				padding: 3em 0 0 0;
+				margin: 0 0 0 0;
+				padding: 0 0 0 0;
 			}
 
 		}
